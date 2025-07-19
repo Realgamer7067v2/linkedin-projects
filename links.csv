@@ -1,0 +1,128 @@
+ID,URL,ParentID,Depth,Status,Title
+1,https://webscraper.io/test-sites/e-commerce/allinone,,1,OK,Allinone | Web Scraper Test Sites
+12,https://webscraper.io/test-sites,1,2,OK,Test Sites | Web Scraper
+110,https://webscraper.io/jobs,1,3,OK,Jobs | Web Scraper
+15,https://webscraper.io/tutorials,1,2,OK,Extension intro | Web Scraper How To
+111,https://webscraper.io/,1,3,OK,Web Scraper - The #1 web scraping extension
+11,https://webscraper.io/documentation,1,2,OK,Installation | Web Scraper Documentation
+19,https://webscraper.io/screenshots,1,2,OK,Screenshots | Web Scraper
+16,https://webscraper.io/contact,1,2,OK,Contact us | Web Scraper
+13,https://webscraper.io/extension-privacy-policy,1,2,OK,Browser Extension Privacy Policy | Web Scraper
+114,https://webscraper.io/blog,1,3,OK,Blog | Web Scraper
+14,https://webscraper.io/pricing,1,2,OK,Pricing | Web Scraper
+18,https://webscraper.io/privacy-policy,1,2,OK,Website Privacy Policy | Web Scraper
+17,https://webscraper.io/about-us,1,2,OK,About us | Web Scraper
+113,https://webscraper.io/cloud-scraper,1,3,OK,Web Scraper Cloud | Web Scraper
+112,https://webscraper.io/downloads/Web_Scraper_Media_Kit.zip,1,3,OK,
+1120,https://webscraper.io/documentation/web-scraper-cloud/parser/remove-whitespaces,11,4,OK,Remove whitespaces | Web Scraper Documentation
+1112,https://webscraper.io/documentation/web-scraper-cloud/data-export,11,4,OK,Data Export | Web Scraper Documentation
+116,https://webscraper.io/documentation/web-scraper-cloud,11,3,OK,Web Scraper Cloud | Web Scraper Documentation
+114,https://webscraper.io/documentation/web-scraper-cloud/parser/append-and-prepend-text,11,3,OK,Append and prepend text | Web Scraper Documentation
+1110,https://webscraper.io/documentation/web-scraper-cloud/parser/strip-html,11,4,OK,Strip HTML | Web Scraper Documentation
+113,https://webscraper.io/documentation/web-scraper-cloud/parser,11,3,OK,Parser | Web Scraper Documentation
+119,https://webscraper.io/documentation/selectors/table-selector,11,3,OK,Table selector | Web Scraper Documentation
+115,https://webscraper.io/documentation/selectors/element-selector,11,3,OK,Element selector | Web Scraper Documentation
+1113,https://webscraper.io/documentation/scraping-a-site,11,4,OK,Scraping a site | Web Scraper Documentation
+1114,https://webscraper.io/documentation/selectors/html-selector,11,4,OK,HTML selector | Web Scraper Documentation
+1116,https://webscraper.io/documentation/web-scraper-cloud/data-quality-control,11,4,OK,Data quality control | Web Scraper Documentation
+112,https://webscraper.io/documentation/selectors/element-click-selector,11,3,OK,Element click selector | Web Scraper Documentation
+1111,https://webscraper.io/documentation/selectors/text-selector,11,4,OK,Text selector | Web Scraper Documentation
+1119,https://webscraper.io/documentation/web-scraper-cloud/parser/remove-column,11,4,OK,Remove column | Web Scraper Documentation
+117,https://webscraper.io/documentation/web-scraper-cloud/scheduler,11,3,OK,Scheduler | Web Scraper Documentation
+1115,https://webscraper.io/documentation/web-scraper-cloud/sitemap-sync,11,4,OK,Sitemap sync | Web Scraper Documentation
+111,https://webscraper.io/documentation/selectors/pagination-selector,11,3,OK,Pagination selector | Web Scraper Documentation
+1118,https://webscraper.io/documentation/web-scraper-cloud/api,11,4,OK,API | Web Scraper Documentation
+1117,https://webscraper.io/documentation/css-selector,11,4,OK,CSS selector | Web Scraper Documentation
+118,https://webscraper.io/documentation/website-state-setup-2f-sign-in,11,3,OK,Website State Setup %2F Sign-in | Web Scraper Documentation
+1123,https://webscraper.io/documentation/web-scraper-cloud/notifications,11,4,OK,Notifications | Web Scraper Documentation
+1122,https://webscraper.io/documentation/web-scraper-cloud/parser/convert-unix-timestamp,11,4,OK,Convert UNIX timestamp | Web Scraper Documentation
+1121,https://webscraper.io/documentation/selectors/link-selector,11,4,OK,Link selector | Web Scraper Documentation
+1128,https://webscraper.io/documentation/open-web-scraper,11,4,OK,Open Web Scraper | Web Scraper Documentation
+1127,https://webscraper.io/documentation/selectors/image-selector,11,4,OK,Image selector | Web Scraper Documentation
+1126,https://webscraper.io/documentation/web-scraper-cloud/parser/replace-text,11,4,OK,Replace text | Web Scraper Documentation
+1130,https://webscraper.io/documentation/web-scraper-cloud/parser/regex-match,11,4,OK,Regex match | Web Scraper Documentation
+1131,https://webscraper.io/documentation/web-scraper-cloud/parser/virtual-column,11,4,OK,Virtual column | Web Scraper Documentation
+1132,https://webscraper.io/documentation/selectors/sitemap-xml-selector,11,4,OK,Sitemap xml selector | Web Scraper Documentation
+1134,https://webscraper.io/documentation/selectors/grouped-selector,11,4,OK,Grouped selector | Web Scraper Documentation
+1124,https://webscraper.io/documentation/web-scraper-cloud/api/webhooks,11,4,OK,Webhooks | Web Scraper Documentation
+1129,https://webscraper.io/documentation/installation,11,4,OK,Installation | Web Scraper Documentation
+1133,https://webscraper.io/documentation/selectors/element-attribute-selector,11,4,OK,Element attribute selector | Web Scraper Documentation
+156,https://webscraper.io/how-to-video/cloud-overview,15,3,OK,Cloud overview | Web Scraper How To
+154,https://webscraper.io/how-to-video/general-pagination,15,3,OK,General pagination | Web Scraper How To
+151,https://webscraper.io/how-to-video/multiple-items,15,3,OK,Multiple items | Web Scraper How To
+152,https://webscraper.io/how-to-video/open-web-scraper,15,3,OK,Open Web Scraper extension for the first time | Web Scraper How To
+1142,https://webscraper.io/blog/webscraper-shopify-import,114,4,OK,Fast-track your online Shopify business | Web Scraper
+155,https://webscraper.io/how-to-video/element-scroll-selector,15,3,OK,Scroll selector | Web Scraper How To
+153,https://webscraper.io/how-to-video/dropdown-variation,15,3,OK,Drop-down variations | Web Scraper How To
+1147,https://webscraper.io/blog/web-scraper-1.29.66-release,114,4,OK,Web Scraper 1.29.66 release - Updated Link Selector | Web Scraper
+158,https://webscraper.io/how-to-video/jquery-contains-selector,15,3,OK,Element contains a string | Web Scraper How To
+1141,https://webscraper.io/blog/web-scraper-collaboration,114,4,OK,In Need of Data? | Web Scraper
+1149,https://webscraper.io/blog/data-transformation-with-Open-Refine,114,4,OK,Data Cleaning with OpenRefine | Web Scraper
+1146,https://webscraper.io/blog/headless-scraping-with-cheerio,114,4,OK,Headless Scraping with Cheerio | Web Scraper
+1144,https://webscraper.io/blog/scraping-the-classical-way,114,4,OK,Scraping E-commerce the Classical Way | Web Scraper
+1125,https://webscraper.io/documentation/selectors,11,4,OK,Selectors | Web Scraper Documentation
+1145,https://webscraper.io/blog/OpenRefine-Introduction,114,4,OK,Introduction to OpenRefine | Web Scraper
+11412,https://webscraper.io/blog/Data-Visualization-Google-Data-Studio,114,5,OK,The Importance of Data Visualization | Web Scraper
+1148,https://webscraper.io/blog/web-scraper-0.6.5-release,114,4,OK,Web Scraper 0.6.5 release | Web Scraper
+11413,https://webscraper.io/blog/css-and-jquery-selectors,114,5,OK,A Quick Guide to CSS and jQuery Selectors for Web Scraper | Web Scraper
+11410,https://webscraper.io/blog/coronavirus-pandemic-google-trends-analysis,114,5,OK,Coronavirus Pandemic Google Trends Analysis | Web Scraper
+11411,https://webscraper.io/blog/frequently-asked-questions,114,5,OK,Most Frequently Asked Questions Answered. | Web Scraper
+11414,https://webscraper.io/blog/0.6.0-release,114,5,OK,Web Scraper 0.6.0 - Pagination Selector and More! | Web Scraper
+1143,https://webscraper.io/blog/data-transformation-with-Web-Scraper,114,4,OK,Data Transformation with Web Scraper. | Web Scraper
+157,https://webscraper.io/how-to-video/extension-intro,15,3,OK,Extension intro | Web Scraper How To
+11417,https://webscraper.io/blog/web-scraper-1.75.7-release,114,5,OK,Web Scraper 1.75.7 release - post-click link access | Web Scraper
+11421,https://webscraper.io/blog/sports-arbitrage-betting,114,5,OK,Is Sports Arbitrage Betting Real? | Web Scraper
+11416,https://webscraper.io/blog/web-scraper-1.79.3-release,114,5,OK,Web Scraper 1.79.3 release | Web Scraper
+11415,https://webscraper.io/blog/data-extraction-for-business,114,5,OK,3 Ways In Which Web Scraping Can Improve Your Business And Save You Time. | Web Scraper
+11420,https://webscraper.io/blog/data-analysis-using-anazon-athena,114,5,OK,Data Analysis using Amazon Athena | Web Scraper
+11422,https://webscraper.io/blog/scraping-brands,114,5,OK,Scraping E-commerce through Brands | Web Scraper
+11427,https://webscraper.io/blog/sitemap-scraping-selector,114,5,OK,Scraping E-commerce the Fastest Way | Web Scraper
+11424,https://webscraper.io/blog/css-selectors,114,5,OK,Top 5 CSS Selectors You Need to Know. | Web Scraper
+11423,https://webscraper.io/blog/Query-Function-Of-Google-Sheets,114,5,OK,The Ultimate Tool for Big Data Access Using Google Sheets | Web Scraper
+11425,https://webscraper.io/blog/scrape-at-scale,114,5,OK,Extracting Data at Scale Using Web Scraper Cloud. | Web Scraper
+11419,https://webscraper.io/blog/ultimate-web-scraping-guide,114,5,OK,The Ultimate Web Scraping Guide. | Web Scraper
+11434,https://webscraper.io/blog/the-role-of-big-data,114,5,OK,The Instrumental Role of Big Data in Our Lives | Web Scraper
+11418,https://webscraper.io/blog/web-scraper-website-state-setup-release,114,5,OK,Website State Setup: Expand your scrapers functionality | Web Scraper
+11429,https://webscraper.io/blog/scraping-public-data,114,5,OK,Scraping public data. Is it legal? | Web Scraper
+11433,https://webscraper.io/blog/data-quality-control,114,5,OK,Web Scraper Cloud Data Quality and Notification Feature | Web Scraper
+11438,https://webscraper.io/blog/brief-history-of-web-scraping,114,5,OK,Brief History of Web Scraping | Web Scraper
+11426,https://webscraper.io/blog/web-scraper-cloud-patterns,114,5,OK,"Extending Web Scraper Cloud with Patterns, a data app platform | Web Scraper"
+11435,https://webscraper.io/blog/web-scraper-1.72.5-release,114,5,OK,Web Scraper 1.72.5 release -  UI updates and more | Web Scraper
+11432,https://webscraper.io/blog/scrape-yellowpages.com,114,5,OK,How to find all the local restaurants in Yellow Pages using Web Scraper | Web Scraper
+11430,https://webscraper.io/blog/web-scraper-0.4.0-release,114,5,OK,Web Scraper 0.4.0 release | Web Scraper
+11431,https://webscraper.io/blog/0.5.0-release,114,5,OK,Web Scraper 0.5.0 Release | Web Scraper
+11440,https://webscraper.io/blog/parser-release,114,5,OK,Web Scraper Cloud Parser feature release | Web Scraper
+11428,https://webscraper.io/blog/google-data-export-feature,114,5,OK,Automatized Crypto Visualization with the New Web Scraper Cloud Data Export Feature | Web Scraper
+11437,https://webscraper.io/blog/OpenRefine-data-transfromation,114,5,OK,Data Transformation with OpenRefine | Web Scraper
+11436,https://webscraper.io/blog/scraping-customer-reviews,114,5,OK,Why Should You Scrape Customer Reviews? | Web Scraper
+11439,https://webscraper.io/blog/web-scraper-1.29.60-release,114,5,OK,Web Scraper 1.29.60 release | Web Scraper
+1161,https://webscraper.io/documentation/parser,116,4,OK,Parser | Web Scraper Documentation
+114111,https://webscraper.io/blog/webscraper-shopify-import\,11411,6,Failed,
+1581,https://webscraper.io/how-to-video/jquery-not-contains-selector,158,4,OK,Element does not contain a string | Web Scraper How To
+1542,https://webscraper.io/how-to-video/pagination-next,154,4,OK,&quot;Next&quot; button pagination | Web Scraper How To
+1541,https://webscraper.io/how-to-video/pagination-number-buttons,154,4,OK,Page number pagination | Web Scraper How To
+1531,https://webscraper.io/how-to-video/product-with-multiple-variations,153,4,OK,Multiple variations | Web Scraper How To
+1521,https://webscraper.io/how-to-video/add-multiple-start-urls,152,4,OK,Add multiple start URLs | Web Scraper How To
+1512,https://webscraper.io/how-to-video/group-selector,151,4,OK,Group multiple elements | Web Scraper How To
+1522,https://webscraper.io/how-to-video/action-keys,152,4,OK,Select parent/child element using the keyboard | Web Scraper How To
+1513,https://webscraper.io/how-to-video/element-attribute,151,4,OK,Element attribute | Web Scraper How To
+1532,https://webscraper.io/how-to-video/button-variation,153,4,OK,Button variations | Web Scraper How To
+1562,https://webscraper.io/how-to-video/parser,156,4,OK,Parser | Web Scraper How To
+1551,https://webscraper.io/how-to-video/pagination-load-more,155,4,OK,&quot;Load More&quot; button | Web Scraper How To
+1582,https://webscraper.io/how-to-video/jquery-not-has-selector,158,4,OK,Element does not have element | Web Scraper How To
+1583,https://webscraper.io/how-to-video/jquery-has-selector,158,4,OK,Element has element | Web Scraper How To
+1561,https://webscraper.io/how-to-video/sitemap-sync,156,4,OK,Sitemap Sync | Web Scraper How To
+1523,https://webscraper.io/how-to-video/create-a-sitemap,152,4,OK,Create a sitemap | Web Scraper How To
+1511,https://webscraper.io/how-to-video/sitemap-xml,151,4,OK,Sitemap XML | Web Scraper How To
+11441,https://webscraper.io/documentation ,1144,5,Failed,
+11612,https://webscraper.io/documentation/parser/strip-html,1161,5,OK,Strip HTML | Web Scraper Documentation
+11611,https://webscraper.io/documentation/parser/replace-text,1161,5,OK,Replace text | Web Scraper Documentation
+11618,https://webscraper.io/documentation/parser/regex-match,1161,5,OK,Regex match | Web Scraper Documentation
+11617,https://webscraper.io/documentation/parser/remove-whitespaces,1161,5,OK,Remove whitespaces | Web Scraper Documentation
+11614,https://webscraper.io/documentation/parser/append-and-prepend-text,1161,5,OK,Append and prepend text | Web Scraper Documentation
+11613,https://webscraper.io/documentation/parser/convert-unix-timestamp,1161,5,OK,Convert UNIX timestamp | Web Scraper Documentation
+11616,https://webscraper.io/documentation/parser/remove-column,1161,5,OK,Remove column | Web Scraper Documentation
+11615,https://webscraper.io/documentation/parser/virtual-column,1161,5,OK,Virtual column | Web Scraper Documentation
+116161,https://webscraper.io/selectors/link-selector,11616,6,Failed,
+116151,https://webscraper.io/selectors,11615,6,Failed,
+116171,https://webscraper.io/selectors/text-selector,11617,6,Failed,
